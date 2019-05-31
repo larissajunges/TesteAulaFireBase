@@ -31,7 +31,7 @@ public class MainActivity extends AppCompatActivity {
 
             }
            public void salvarOnFireBase(View view){
-          //  Usuario user = new Usuario(edNome.getText().toString()),edNome.getText().toString(),1.5);
-           //  reference.child("usuario").push().setValue(user);
+            Usuario user = new Usuario(edNome.getText().toString(), edNome.getText().toString(),1.5);
+            reference.child("usuario").push().setValue(user);
             }
 }

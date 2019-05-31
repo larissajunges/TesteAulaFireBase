@@ -4,4 +4,6 @@ public class Usuario {
     private String nome;
 
 
+    public Object getText() {
+    }
 }
