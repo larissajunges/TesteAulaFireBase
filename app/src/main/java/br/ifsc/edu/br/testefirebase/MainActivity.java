@@ -2,6 +2,7 @@ package br.ifsc.edu.br.testefirebase;
 
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
+import android.view.View;
 import android.widget.EditText;
 
 import com.google.firebase.database.DatabaseReference;
@@ -27,5 +28,10 @@ public class MainActivity extends AppCompatActivity {
         reference.child("usuarios").child("id").child("02").child("email").setValue("bruno@gamil.com");
         reference.child("usuarios").child("id").child("03").child("email").setValue("bianca@gmail.com");
 
-    }
+
+            }
+           public void salvarOnFireBase(View view){
+          //  Usuario user = new Usuario(edNome.getText().toString()),edNome.getText().toString(),1.5);
+           //  reference.child("usuario").push().setValue(user);
+            }
 }
