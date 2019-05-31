@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "631358682076",
+    "firebase_url": "https://testeaula-84ebe.firebaseio.com",
+    "project_id": "testeaula-84ebe",
+    "storage_bucket": "testeaula-84ebe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:631358682076:android:ce42431380be854e",
+        "android_client_info": {
+          "package_name": "br.ifsc.edu.br.testefirebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "631358682076-rcdp9o9s7146p71kl9g4r83524ed8epc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAErQzUhvQRsB-PIklI6Tb5KH083ZyQjdE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "631358682076-rcdp9o9s7146p71kl9g4r83524ed8epc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
